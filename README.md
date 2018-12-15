@@ -14,3 +14,6 @@ You can compile this project with processing. I recommend compiling it as androi
 
 ## Binary
 I will put a signed binary at /bin in this repository. Take into account that activating an android wallpaper is a complex task, the option to so so is hidden on some phones.
+
+## Additional credits
+This app uses the fanwood font, https://github.com/theleagueof/fanwood
